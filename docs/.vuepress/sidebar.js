@@ -2280,6 +2280,36 @@ module.exports = [
         ]
       },
       {
+        title: 'Zoom',
+        path: '/connectors/zoom',
+        children: [
+          [
+            '/connectors/zoom#how-to-connect-to-zoom-on-workato',
+            'Connection setup'
+          ],
+          [
+            '/connectors/zoom/new-event-trigger',
+            'New events (Meeting, Webinar etc)'
+          ],
+          [
+            '/connectors/zoom/event-actions',
+            'Schedule meetings and webinars'
+          ],
+          [
+            '/connectors/zoom/registrant-actions',
+            'Add or retrieve registrants'
+          ],
+          [
+            '/connectors/zoom/user-actions',
+            'Add, update or remove users'
+          ],
+          [
+            '/connectors/zoom/cloud-recording',
+            'Download cloud recordings'
+          ],
+        ]
+      },
+      {
         title: 'Zuora',
         path: '/connectors/zuora',
         children: [
