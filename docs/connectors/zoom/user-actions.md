@@ -60,7 +60,7 @@ ___________________
 Delete a user in your Zoom organisation via SSO token or directly. This allows you to remove users entirely or revoke their SSO tokens.
 
 ### Configuring the action
-When configuring this action, you'll need to first select the **event typee** for the user.
+When configuring this action, you'll need to first select the **event type** for the user.
 
 |Delete type|Description|
 |--- |--- |

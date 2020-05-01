@@ -4,7 +4,7 @@ date: 2018-03-23 06:00:00 Z
 ---
 
 # Zoom - Download a cloud recording
-This action allows you to download cloud recordings directly from Zoom and send them to downstream applications. When cloud recordings are finished in Zoom, you can send them to CRM tools like Salesforce so the recordings for a sales call can be as a salesperson's fingertips.
+This action allows you to download cloud recordings directly from Zoom and send them to downstream applications. When cloud recordings are finished in Zoom, you can send them to CRM tools like Salesforce so the recordings for a sales call can be at a salesperson's fingertips.
 
 ![Cloud recording](~@img/zoom/cloud-recording.png)
 <center><i>Download a cloud recording from Zoom</i></center>

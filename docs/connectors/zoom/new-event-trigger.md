@@ -15,14 +15,14 @@ This trigger picks up new events in Zoom in real time. Each new job represents a
 |Event|Select the event in Zoom which will trigger this recipe. A new job is created for each event across your Zoom instance.|
 
 ::: tip
-Events are triggered on an organisational level. For example, when a trigger is set up that listens on meetings ended, a new job is created for every meeting ended by anyone in the Zoom organisation authenticated. Use a meeting's or webinar's tracking fields to filter for events that are relevant.
+Events are triggered on an organizational level. For example, when the trigger is set up to fire on meetings that have ended, a new job is created for every meeting ended by anyone in the connected Zoom organization. Use a meeting's or webinar's tracking fields to filter for events that are relevant. Find out more about how to filter by events by tracking fields [here.](/connectors/zoom/best-practices.md#filtering-trigger-events-on-zoom)
 :::
 
 ## Configuring the Zoom trigger
 Configuring the Zoom trigger is simple. After creating a connection, you will be prompted to provide an **Event category**. This event category helps you filter down events in Zoom based on categories like Webinars, Meetings or even Users. The following dropdown will show the actual **Event** itself. Select from the list of events possible and you're good to go!
 
-Below, we go through some of the more advanced triggers in Zoom.
-| Category        	| Event                                  	| Note                                                                                                                                         	|
+Below are some of the more advanced triggers in Zoom and descriptions of their trigger events.
+| Category        	| Event                                  	| Description                                                                                                                                         	|
 |-----------------	|---------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------	|
 | Meeting         	| Meeting alerts                        	| Triggers when a meeting has alerts such as bad connection or unstable video                                                                  	|
 | Meeting         	| Meeting registrant created            	| Triggers a person registers for any meeting in Zoom. Registrant can be created via UI or API                                                 	|

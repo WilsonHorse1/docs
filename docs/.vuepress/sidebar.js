@@ -2307,6 +2307,10 @@ module.exports = [
             '/connectors/zoom/cloud-recording',
             'Download cloud recordings'
           ],
+          [
+            '/connectors/zoom/best-practices',
+            'Best Practices'
+          ],
         ]
       },
       {

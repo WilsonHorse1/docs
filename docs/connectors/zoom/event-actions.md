@@ -28,7 +28,7 @@ Below, we go through common input fields that will help you schedule webinars an
 
 |Input field|Description|
 |--- |--- |
-|Object|Select either meeting or webinar.|
+|Event |Select either meeting or webinar.|
 |User ID|Select from possible users in your Zoom organisation or map the datapill of a user to schedule meetings dynamically based on users.|
 |Topic|The name or topic of the Webinar or Meeting. Users who join your event see this as the main label.|
 |Type|The type of Webinar or meeting. It can either be instant, scheduled or recurring.|
@@ -48,7 +48,7 @@ Update the details of various components of the meetings, webinars or cloud reco
 <center><i>Choose from a list of events to update</i></center>
 
 ### Configuring the action
-When configuring this action, you'll first be prompted to select what kind of **Event** you want scheduled. Select the event that best matches what you require. After selecting the event, relevant input fields will appear which allows you to configure the settings for the event being created.
+When configuring this action, you'll first be prompted to select what kind of **Event** you want updated. After selecting the event, relevant input fields will appear which allows you to configure the settings for the event being updated.
 
 |Event| Description |
 |--- |--- |
@@ -69,7 +69,7 @@ Search for details of meetings, webinars or cloud recordings. This allows you to
 <center><i>Search meetings, webinars and more</i></center>
 
 ### Configuring the action
-When configuring this action, you'll first be prompted to select what kind of **Event** you want scheduled. Select the event that best matches what you require. After selecting the event, relevant input fields will appear which allows you to configure the settings for the event being created.
+When configuring this action, you'll first be prompted to select what kind of **Event** you want scheduled. After selecting the event, relevant input fields will appear which allows you to configure the settings for the event being created.
 
 |Event| Description |
 |--- |--- |
@@ -87,7 +87,7 @@ ___________________
 Get details of meetings, webinars or cloud recordings. Use this action to get details of meetings and even details of Webinar registrants/absentees.
 
 ### Configuring the action
-When configuring this action, you'll first be prompted to select what kind of **Event** you want scheduled. Select the event that best matches what you require. After selecting the event, relevant input fields will appear which allows you to configure the settings for the event being created.
+When configuring this action, you'll first be prompted to select what kind of **Event** you want details of. Select the event that best matches what you require. After selecting the event, relevant input fields will appear which allows you to configure the settings for the event being retrieved.
 
 |Event| Description |
 |--- |--- |

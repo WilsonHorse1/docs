@@ -20,13 +20,13 @@ Add registrants to any webinars, meetings or cloud recordings. This allows you t
 <center><i>Add registrants to meetings, webinars or cloud recordings</i></center>
 
 ### Configuring the action
-When configuring this action, you'll first be prompted to select what kind of **Event** you want scheduled. You can pick from either meeting, webinar or cloud recording. After selecting the event type, relevant input fields will appear which allows you to configure the settings for the event being created. The output of this action is the details of registrations created.
+When configuring this action, you'll first be prompted to select what kind of **Event** you want to add registrants to. You can pick from either meeting, webinar or cloud recording. After selecting the event type, relevant input fields will appear which allows you to configure the settings for the event being created. The output of this action is the details of registrations created.
 
 Below, we go through the input fields that can be configured for each registrant.
 
 |Input field|Description|
 |--- |--- |
-|Event|Select either webinar, meeting or cloud recording.|
+|Object|Select either webinar, meeting or cloud recording.|
 |Event ID|The ID of the webinar, meeting or cloud recording you are adding a registrant to.|
 |Email|Email address of the registrant.|
 |First name|First name of the registrant.|
@@ -40,7 +40,7 @@ ___________________
 Get a list of registrants for your webinars, meetings or cloud recordings. Use this to pull all the registrants of a specific webinar, meeting or cloud recording so you can perform actions like send them emails or create leads in Salesforce.
 
 ### Configuring the action
-When configuring this action, you'll first be prompted to select what kind of **Event** you want scheduled. You can pick from either meeting, webinar or cloud recording. After selecting the event type, relevant input fields will appear which allows you to configure the settings for the event being created. The output of this action is the details of registrations created.
+When configuring this action, you'll first be prompted to select what kind of **Event** you want to retrieve the list of registrants from. You can pick from either meeting, webinar or cloud recording. The output of this action is the details of registrants such as emails and names.
 
 Below, we go through the input fields that can be configured while getting a list of registrants.
 
@@ -60,7 +60,7 @@ Approve, deny or cancel registrations for webinars, meetings or cloud recordings
 <center><i>Approve/deny/cancel registrants to meetings, webinars or cloud recordings</i></center>
 
 ### Configuring the action
-When configuring this action, you'll first be prompted to select what kind of **Event** you want scheduled. You can pick from either meeting, webinar or cloud recording. After selecting the event type, relevant input fields will appear which allows you to configure the settings for the event being created. The output of this action is the details of registrations created.
+When configuring this action, you'll first be prompted to select what kind of **Event** whose registrants you want to approve, deny or cancel. You can pick from either meeting, webinar or cloud recording. After selecting the event type, relevant input fields will appear which allows you to configure the settings for the event being created.
 
 Below, we go through the input fields that can be configured while approving a batch of registrants.
 
