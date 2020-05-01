@@ -9,12 +9,13 @@ We compiled a few of our best practices that make your life easier when developi
 ## Filtering trigger events on Zoom
 As the Zoom connector works on an organisational level, this means that jobs are created regardless of the user. To help filter only the events you want, make use of tracking fields in Zoom to define the purpose of your meetings or webinars. Tracking fields allow you to define the purpose of the meeting or webinar so you can label it as a sales call or a marketing webinar. Find out more about tracking fields [here](https://support.zoom.us/hc/en-us/articles/115000293426-Scheduling-Tracking-Fields)
 
-When events are triggered in the Zoom connector, you can then use these tracking fields to filter events. Below, we have an example of 2 tracking fields we have set up for `Department` and purpose. These fields can be required and help indicate the department and purpose of the meeting.
+When events are triggered in the Zoom connector, you can then use these tracking fields to filter events. Below, we have an example of 2 tracking fields we have set up for `Department` and purpose. These fields can be made required and help indicate the department and purpose of the meeting.
 
 ![Tracking fields in Zoom](~@img/zoom/tracking-field-set-up.png)
 <center><i>Set up tracking fields in your Zoom instance</i></center>
 
 When users have to schedule a Zoom meeting, they'll have additional fields to help label these meetings. These tracking fields can be assigned to meetings or webinars through the Zoom web UI or through the API.
+
 ![Tracking fields when scheduling a meeting](~@img/zoom/tracking-field-schedule.png)
 <center><i>Set up tracking fields for each meeting</i></center>
 
